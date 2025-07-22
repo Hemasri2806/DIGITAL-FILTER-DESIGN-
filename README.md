@@ -13,3 +13,7 @@ DURATION: 08/06/2025 TO 08/08/2025
 MENTOR: NEELA SANTOSH
 
 YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK (AND IT SHOULD BE LESS THAN 500 WORDS)
+
+**output**:
+
+<img width="1918" height="998" alt="Image" src="https://github.com/user-attachments/assets/981870b9-0472-4377-8f34-cde2488202df" />
